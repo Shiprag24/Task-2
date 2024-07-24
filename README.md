@@ -28,3 +28,5 @@ TECHNOLOGIES USED
 
 OVERVIEW OF THE PROJECT
 PROJECT: Portfolio
+![Screenshot (38)](https://github.com/user-attachments/assets/9c3bcde0-94f1-4e4e-bd16-c25eda3318cc)
+
